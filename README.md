@@ -7,7 +7,7 @@ FullStack Developer
   create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
 
 * 🌍  I'm based in Tunsie
-* ✉️  You can contact me at [benhammdighassen@gmail.com](mailto:amenysakly@gmail.com)
+* ✉️  You can contact me at [amenysakly@gmail.com](mailto:amenysakly@gmail.com)
 * 🧠  I'm learning everything javascript
 * 🔭 I’m currently working on **website with Angular**
 ### Skills
